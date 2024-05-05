@@ -3,7 +3,7 @@
 
 <h3>Here is some Programing languages i'm good with :</h3>
 <div>
-  <img src="[https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2FdM2Tsb%2FbtrWUHDPyA8%2FnVZCmpgNKTE0gJUjl6lbv1%2Fimg.png](https://mobotics.in/assets/images/technology/Python.jpg)" style="height:50px">
+  <img src="https://mobotics.in/assets/images/technology/Python.jpg" style="height:50px">
   <img src="https://pbs.twimg.com/profile_images/499913018361131009/4AYspJ8L_400x400.png" style="height:50px">
   <img src="https://images.velog.io/images/rememberme_jhk/post/2a1c5b17-c028-421f-a870-3538078a841c/js.png" style="height:50px">
   <img src="https://www.logicsolutions.com/wp-content/uploads/2015/06/html5.png" style="height:50px">
