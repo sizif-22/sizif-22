@@ -6,50 +6,51 @@
     <th>Programming Languages</th>
     <td> 
       <a href ="https://github.com/Sherif-lotfy/Some-Py-codes.git">
-      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" /></a>   
+      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" style="height:30px"/></a>   
       <a href="https://github.com/Sherif-lotfy/Cpp-OOP-DS-.git">
-      <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" /></a>
+      <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" style="height:30px"/></a>
       <a href="#">
-      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" /></a>
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" style="height:30px"/></a>
       <a href="https://github.com/Sherif-lotfy/Front-end-Development.git">
-      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-      <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />      
-      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black" /></a>
+      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" style="height:30px"/>      
+      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black" style="height:30px"/></a>
    </td>
   </tr>
   <tr>
     <th>Frameworks/Libraries</th>
     <td>
       <a href="https://github.com/Sherif-lotfy/Front-end-Development.git">
-      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" /></a>
+      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" style="height:30px"/>
+       <img src="https://miro.medium.com/v2/resize:fit:799/1*KvI9mOPeN8zTQRHIMvB-0w.jpeg" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" style="height:30px"/></a>
     </td>
   </tr>
   <tr>
     <th>Databases</th>
     <td>
       <a href="#">
-      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" /></a>
+      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" style="height:30px"/></a>
       <a href ="https://github.com/Sherif-lotfy/C207Proj.git">
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="height:30px"/></a>
     </td>
   </tr>
   <tr>
     <th>Some Tools</th>
     <td>
       <a href="#">
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" style="height:30px"/> 
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" style="height:30px"/></a>
     </td>
   </tr>
   <tr>
     <th>Markup</th>
     <td>
       <a href="https://github.com/Sherif-lotfy/Front-end-Development.git">
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /></a>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" style="height:30px"/></a>
     </td>
   </tr>  
 </table>
