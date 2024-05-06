@@ -1,3 +1,8 @@
+<style>
+  img {
+    height:10px;
+  }
+</style>
 <h1>Herzlich Willkommen 👋</h1>
 <h3>I'm wastin' my time trin' make this... so I hope it looks good 🫡🫡</h3>
 
