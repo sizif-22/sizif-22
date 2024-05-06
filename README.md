@@ -9,7 +9,7 @@
   <img src="https://www.logicsolutions.com/wp-content/uploads/2015/06/html5.png" style="height:70px">
   <img src="https://imagizer.imageshack.com/img924/5796/v2DlWx.png" style="height:70px">
   <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/b3be7e3bb83f4d50a65534c37658f1f1/97f0da12713343e598c9be4b6fe12099" style="height:70px">
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
           
 </div>
   <h3> In addition to </h3>
