@@ -3,14 +3,13 @@
 
 <h3>Here is some Programing languages i'm good with :</h3>
 <div>
-  <style> img {height:10px} </style>
   <img src="https://mobotics.in/assets/images/technology/Python.jpg" style="height:70px">
   <img src="https://pbs.twimg.com/profile_images/499913018361131009/4AYspJ8L_400x400.png" style="height:70px">
   <img src="https://images.velog.io/images/rememberme_jhk/post/2a1c5b17-c028-421f-a870-3538078a841c/js.png" style="height:70px">
   <img src="https://www.logicsolutions.com/wp-content/uploads/2015/06/html5.png" style="height:70px">
   <img src="https://imagizer.imageshack.com/img924/5796/v2DlWx.png" style="height:70px">
   <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/b3be7e3bb83f4d50a65534c37658f1f1/97f0da12713343e598c9be4b6fe12099" style="height:70px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" style="height:70px"/>
           
 </div>
   <h3> In addition to </h3>
