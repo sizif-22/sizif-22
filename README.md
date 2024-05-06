@@ -18,8 +18,6 @@
   <img src="https://itguru.vn/blog/wp-content/uploads/2020/06/Express-JS-logo.jpg" style="height:70px">
   <img src="https://errorsea.com/wp-content/uploads/2020/04/mysql.png" style="height:70px">
   </div>
-  [!Javascript]
-  
 <!--
   <img src="" style="height:50px">
 **Sherif-lotfy/Sherif-lotfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
