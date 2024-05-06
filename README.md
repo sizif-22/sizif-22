@@ -18,8 +18,6 @@
   <img src="https://itguru.vn/blog/wp-content/uploads/2020/06/Express-JS-logo.jpg" style="height:70px">
   <img src="https://errorsea.com/wp-content/uploads/2020/04/mysql.png" style="height:70px">
   </div>
-  #### Languages:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
 <!--
   <img src="" style="height:50px">
