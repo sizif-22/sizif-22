@@ -18,7 +18,7 @@
   <img src="https://itguru.vn/blog/wp-content/uploads/2020/06/Express-JS-logo.jpg" style="height:70px">
   <img src="https://errorsea.com/wp-content/uploads/2020/04/mysql.png" style="height:70px">
   </div>
-  ![Javascript]
+  ![Javascript](https://images.velog.io/images/rememberme_jhk/post/2a1c5b17-c028-421f-a870-3538078a841c/js.png)
   
 <!--
   <img src="" style="height:50px">
