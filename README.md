@@ -52,9 +52,9 @@
     <th>Markup/Markdown</th>
     <td>
       <a href="#">
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white" />
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="height:30px"/>
+      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" style="height:30px"/>
       </a>
     </td>
   </tr>
