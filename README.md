@@ -60,3 +60,6 @@
     </td>
   </tr>
 </table>
+
+
+['Resume']('https://github.com/Sherif-lotfy/Sherif-lotfy/blob/1f3d9db1325efb4a3319ae6c3d5484214750ad7a/Sherif%20Lotfy.pdf') 
