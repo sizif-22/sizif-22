@@ -7,17 +7,15 @@
     <th>Programming Languages</th>
     <td> 
       <a href="#">
-      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" style="height:30px"/></a>   
-      <a href="#">
-      <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" style="height:30px"/></a>
-      <a href="#">
-      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" style="height:30px"/></a>
-      <a href="#">
-      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" style="height:30px"/>
-      <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" style="height:30px"/>      
-      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" style="height:30px"/>
-      <img src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black" style="height:30px"/></a>
-      <img src="https://i2.wp.com/img.talkandroid.com/uploads/2015/05/google_dart_logo.jpg?fit=630%2C167&ssl=1" style="height:30px"/></a>
+      <img src="https://img.shields.io/badge/-Python-ffff47?logo=python" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-C++-787CB5?logo=c%2B%2B" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-Java-007396" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" style="height:30px"/>      
+      <img src="https://img.shields.io/badge/-Nodejs-339933?logo=Node.js&logoColor=white" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-PHP-787CB5?logo=PHP&logoColor=black" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-Dart-blue?logo=dart" style="height:30px"/>
+      </a>
  
    </td>
   </tr>
@@ -25,21 +23,21 @@
     <th>Frameworks/Libraries</th>
     <td>
       <a href="#">
-      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" style="height:30px"/></a>
-      <a href="#">
-       <img src="https://miro.medium.com/v2/resize:fit:799/1*KvI9mOPeN8zTQRHIMvB-0w.jpeg" style="height:30px"/>
-      <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" style="height:30px"/></a>
-     <a href="#"><img src="https://www.tmssoftware.com/site/img/blog/tailwind_logo.jpg"  style="height:30px" /></a>
-     <a href="#"><img src="https://th.bing.com/th/id/OIP.F7NTLtr9QanvZ627vNwNNgAAAA?rs=1&pid=ImgDetMain"  style="height:30px" /></a>
+      <img src="https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-Tailwind Css-white?logo=tailwindcss&logoColor=blue"  style="height:30px" />
+      <img src="https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&logoColor=white" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-React.js-black?logo=react&logoColor=Crayola" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-Flutter-white?logo=flutter&logoColor=blue"  style="height:30px" />
+      </a>
     </td>
   </tr>
   <tr>
     <th>Databases</th>
     <td>
       <a href="#">
-      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" style="height:30px"/>
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="height:30px"/>
-       <img src="https://cdn.filestackcontent.com/WUSuRpZTfqdx6zBpELAb" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-FireBase-black?logo=firebase&logoColor=yellow" style="height:30px"/>
       </a>
     </td>
   </tr>
@@ -47,18 +45,19 @@
     <th>Some Tools</th>
     <td>
       <a href="#">
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="height:30px"/>
-      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" style="height:30px"/> 
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" style="height:30px"/></a>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-Git-black?logo=git" style="height:30px"/> 
+      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github" style="height:30px"/>
+      </a>
     </td>
   </tr>
   <tr>
     <th>Markup/Markdown</th>
     <td>
       <a href="#">
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="height:30px"/>
-      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white" style="height:30px"/>
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" style="height:30px"/>
+      <img src="https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" style="height:30px"/>
       </a>
     </td>
   </tr>
