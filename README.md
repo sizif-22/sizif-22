@@ -22,7 +22,7 @@
     <th>Frameworks/Libraries</th>
     <td>
       <a href="#">
-      <img src="https://img.shields.io/badge/-Nodejs-black?logo=Node.js&logoColor=339933" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-Node.js-black?logo=Node.js&logoColor=339933" style="height:30px"/>
       <img src="https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white" style="height:30px"/>
       <img src="https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&logoColor=white" style="height:30px"/>
       <img src="https://img.shields.io/badge/-React.js-black?logo=react&logoColor=Crayola" style="height:30px"/>
