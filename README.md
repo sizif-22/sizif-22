@@ -51,6 +51,7 @@
       <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" style="height:30px"/>
       <img src="https://img.shields.io/badge/-Git-black?logo=git" style="height:30px"/> 
       <img src="https://img.shields.io/badge/-GitHub-181717?logo=github" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-Redux-8b37f7?logo=Redux" style="height:30px"/>
       </a>
     </td>
   </tr>
