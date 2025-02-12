@@ -7,7 +7,7 @@
 
 <table style="width:100%" align="center">
  <tr>
-    <th>Programming Languages</th>
+    <th>💻 Programming Languages</th>
     <td> 
       <a href="#">
       <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript" style="height:30px"/>
@@ -22,7 +22,7 @@
    </td>
   </tr>
   <tr>
-    <th>Frameworks/Libraries</th>
+    <th>🛠 Frameworks/Libraries</th>
     <td>
       <a href="#">
       <img src="https://img.shields.io/badge/-Node.js-black?logo=Node.js&logoColor=339933" style="height:30px"/>
@@ -35,7 +35,7 @@
     </td>
   </tr>
   <tr>
-    <th>Databases</th>
+    <th>🗄️ Databases</th>
     <td>
       <a href="#">
       <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" style="height:30px"/>
@@ -45,18 +45,19 @@
     </td>
   </tr>
   <tr>
-    <th>Some Tools</th>
+    <th>🔧 Some Tools</th>
     <td>
       <a href="#">
       <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" style="height:30px"/>
       <img src="https://img.shields.io/badge/-Git-black?logo=git" style="height:30px"/> 
       <img src="https://img.shields.io/badge/-GitHub-181717?logo=github" style="height:30px"/>
       <img src="https://img.shields.io/badge/-Redux-8b37f7?logo=Redux" style="height:30px"/>
+      <img src="https://img.shields.io/badge/-Figma-black?logo=figma&logoColor=yellow" style="height:30px"/>
       </a>
     </td>
   </tr>
   <tr>
-    <th>Markup/Markdown</th>
+    <th>📝 Markup/Markdown</th>
     <td>
       <a href="#">
       <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" style="height:30px"/>
@@ -66,6 +67,9 @@
     </td>
   </tr>
 </table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sizif-22&theme=dark-smoky&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak"/>
+</div>
 
 
-# [Resume](https://github.com/sizif-22/sizif-22/blob/c974a825defcc7f46866af580578b5ed6f463d32/Sherif%20Lotfy.pdf) 
+# [📄Resume](https://github.com/sizif-22/sizif-22/blob/c974a825defcc7f46866af580578b5ed6f463d32/Sherif%20Lotfy.pdf) 
