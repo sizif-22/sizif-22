@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/-Dart-blue?logo=dart" style="height:30px"/>
       <img src="https://img.shields.io/badge/-Java-007396" style="height:30px"/>
       <img src="https://img.shields.io/badge/-PHP-787CB5?logo=PHP&logoColor=black" style="height:30px"/>
-      <img src="https://img.shields.io/badge/-Python-ffff47?logo=python" style="height:30px"/>
+<!--       <img src="https://img.shields.io/badge/-Python-ffff47?logo=python" style="height:30px"/> -->
       </a>
  
    </td>
@@ -68,7 +68,7 @@
   </tr>
 </table>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sizif-22&theme=dark-smoky&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=sizif-22&theme=dark-smoky&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak"/> -->
 </div>
 
 
