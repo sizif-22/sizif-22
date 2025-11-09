@@ -72,4 +72,4 @@
 </div>
 
 
-# [📄Resume](https://github.com/sizif-22/sizif-22/blob/main/Sherif%20Lotfy.pdf) 
+ <!--  [📄Resume](https://github.com/sizif-22/sizif-22/blob/main/Sherif%20Lotfy.pdf) --> 
