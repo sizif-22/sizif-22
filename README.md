@@ -68,7 +68,7 @@
   </tr>
 </table>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sizif-22&theme=dark-smoky&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sizif-22&theme=dark-smoky&short_numbers=true&mode=weekly" alt="Sherif Lotfy" />
 </div>
 
 
