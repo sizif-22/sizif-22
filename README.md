@@ -2,7 +2,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture></a></h1>
-<h3>I'm a 4th-year student, ComputerScience Department, faculty of science, Ain-shams university </h3>
+<h3>I'm a Software Engineer | Web Developer</h3>
 <h3>Experienced in... </h3>
 
 <table style="width:100%" align="center">
