@@ -128,7 +128,7 @@ B.Sc. Computer Science graduate from **Ain Shams University** (2026), currently 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sizif-22&theme=github-dark-blue&hide_border=true&mode=weekly" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sizif-22&theme=github-dark-blue&hide_border=true&mode=weekly&short_numbers=true" height="165"/>
 </div>
 <div align="center">
 </div>
