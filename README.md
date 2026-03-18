@@ -70,7 +70,7 @@ B.Sc. Computer Science graduate from **Ain Shams University** (2026), currently 
 **Auth & AI**
 
 ![WorkOS](https://img.shields.io/badge/WorkOS-000000?style=for-the-badge&logo=workos&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
@@ -84,7 +84,7 @@ B.Sc. Computer Science graduate from **Ain Shams University** (2026), currently 
       <p>All-in-one content operations SaaS for digital marketing agencies. Covers the full lifecycle: Brief → Design → Review → Client Approval → Schedule → Publish.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
-        <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white"/>
         <img src="https://img.shields.io/badge/WorkOS-000?style=flat-square"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
       </p>
@@ -95,8 +95,8 @@ B.Sc. Computer Science graduate from **Ain Shams University** (2026), currently 
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
         <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda"/>
-        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare"/>
-        <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -115,8 +115,8 @@ B.Sc. Computer Science graduate from **Ain Shams University** (2026), currently 
       <h3>♻️ repAI</h3>
       <p>AI recycling rewards platform. Real-time object detection via Gemini API, dynamic cashback calculation, and receipt scanning. Built for GDG Cairo hackathon — <strong>4th place</strong>.</p>
       <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go"/>
-        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google"/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
     </td>
