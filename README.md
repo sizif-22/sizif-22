@@ -67,11 +67,15 @@ B.Sc. Computer Science graduate from **Ain Shams University** (2026), currently 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Auth & AI**
+**AI**
 
-![WorkOS](https://img.shields.io/badge/WorkOS-000000?style=for-the-badge&logo=workos&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Auth**
+
+![WorkOS](https://img.shields.io/badge/WorkOS-000000?style=for-the-badge)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge)
 
 ---
 
